@@ -46,7 +46,7 @@ A modern, responsive, and fully-featured user management table built with **Next
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/gaana-ai-table.git
+git clone https://github.com/premshetty/gaana-ai-table.git
 cd gaana-ai-table
 ```
 
